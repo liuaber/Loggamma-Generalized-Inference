@@ -1,4 +1,4 @@
-# Gamma Generalized Inference Project
+# Loggamma Generalized Inference Project
 
 This repository contains implementation and examples for generalized
 p-values and confidence intervals for Gamma and log-Gamma quantiles
