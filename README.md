@@ -54,10 +54,3 @@ It computes a generalized confidence interval for a log-Gamma quantile.
     results.
 -   Smaller values are recommended when testing or knitting the
     document.
-
-## Usage 
-
-set.seed(123)
-x <- rgamma(20, shape = 2, scale = 5)
-CILogGamQuan(x, p = 0.9, cover = 0.95, Nmc = 500, Ncdf = 500)
-
