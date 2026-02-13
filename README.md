@@ -14,14 +14,14 @@ DOI: 10.1080/03610926.2014.887109.
 
 ## Files in this Repository
 
--   **gamma_generalized_pvalues.Rmd**\
+-   **loggamma_generalized_pvalues.Rmd**\
     R Markdown source file containing:
     -   Method description
     -   Implementation of Monte Carlo T-ratio CDF
     -   Generalized p-value for log-Gamma quantiles
     -   Confidence interval construction
     -   Empirical coverage simulation example
--   **gamma_generalized_pvalues.html**\
+-   **loggamma_generalized_pvalues.html**\
     Knitted HTML output generated from the R Markdown file.
 
 ------------------------------------------------------------------------
